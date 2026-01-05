@@ -13,22 +13,22 @@
 
 | Machine      | User | System |
 |--------------|:----:|:------:|
-| Editor       | - [x] | - [x] |
-| Expressway   | - [x] | - [x] |
-| Cap          | - [x] | - [x] |
-| Unified      | - [x] | - [x] |
-| Vaccine      | - [x] | - [x] |
-| Oopsie       | - [x] | - [x] |
-| Archetype    | - [x] | - [x] |
-| CozyHosting  | - [x] | - [x] |
-| Blue         | - [x] | - [x] |
-| Shocker      | - [x] | - [x] |
-| Grandpa      | - [x] | - [x] |
-| Optimum      | - [x] | - [x] |
-| Legacy       | - [x] | - [x] |
-| Lame         | - [x] | - [x] |
-| Keeper       | - [x] | - [ ] |
-| RedPanda     | - [x] | - [ ] |
+| Editor       | [x] | [x] |
+| Expressway   | [x] | [x] |
+| Cap          | [x] | [x] |
+| Unified      | [x] | [x] |
+| Vaccine      | [x] | [x] |
+| Oopsie       | [x] | [x] |
+| Archetype    | [x] | [x] |
+| CozyHosting  | [x] | [x] |
+| Blue         | [x] | [x] |
+| Shocker      | [x] | [x] |
+| Grandpa      | [x] | [x] |
+| Optimum      | [x] | [x] |
+| Legacy       | [x] | [x] |
+| Lame         | [x] | [x] |
+| Keeper       | [x] | [ ] |
+| RedPanda     | [x] | [ ] |
 
 ---
 
@@ -36,9 +36,15 @@
 
 | Challenge         | Completed |
 |-------------------|:---------:|
-| Behind the Scenes | - [x]     |
-| Canvas            | - [x]     |
-| Templated         | - [x]     |
-| Cat               | - [x]     |
-| xorxorxor         | - [x]     |
-| BabyEncryption    | - [x]     |
+| Behind the Scenes | [x] |
+| Canvas            | [x] |
+| Templated         | [x] |
+| Cat               | [x] |
+| xorxorxor         | [x] |
+| BabyEncryption    | [x] |
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=1A472A&height=120&section=footer&fontSize=30&fontColor=87CEFA)
+
+
