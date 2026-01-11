@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1A472A&height=160&section=header&text=Hack%20The%20Box%20Progress&fontColor=9FEF00&fontSize=36)
+![Header HTB](https://capsule-render-chi.vercel.app/api?type=waving&color=1A472A&height=160&section=header&text=Hack%20The%20Box%20Progress&fontColor=9FEF00&fontSize=36)
 
 # 🧠 Hack The Box — Progress
 
@@ -45,6 +45,6 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=1A472A&height=120&section=footer&fontSize=30&fontColor=87CEFA)
+![Footer](https://capsule-render-chi.vercel.app/api?type=waving&color=1A472A&height=120&section=footer&fontSize=30&fontColor=87CEFA)
 
 
